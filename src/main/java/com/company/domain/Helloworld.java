@@ -6,7 +6,7 @@ public class Helloworld {
     }
 
     public static void main(String[] args) {
-        new Helloworld();
+        Helloworld helloworld = new Helloworld();
         System.out.println("hello world!");
     }
 }
